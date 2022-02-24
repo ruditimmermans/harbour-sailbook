@@ -23,8 +23,5 @@ Sailbook is an unofficial Facebook client for Sailfish OS based on QTWebkit.
 - Embedded browser
 - Integrated videoplayer
 
-## I want to contribute
-You can find more information on how to help in the [Sailbook wiki](https://github.com/DylanVanAssche/harbour-sailbook/wiki).
-
 ## License
 GNU General Public License v3.0
